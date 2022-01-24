@@ -1,0 +1,107 @@
+{
+    "keyword1": "Insurance",
+    "keyword2": "Car insurance",
+    "keyword3": "credit mortgage",
+    "keyword4": "Mortgage",
+    "keyword5": "home insurance",
+    "keyword6": "Attorney",
+    "keyword7": "mortgage rates",
+    "keyword8": "mortgage Loans",
+    "keyword9": "car accident Lawyer",
+    
+    
+    "latitude": "59.913868",
+    "longitude": "10.752245",
+    "negara": "norway",
+    
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "inter":  "ca-app-pub-3940256099942544/1033173712",
+    "appid": "ca-app-pub-3940256099942544~3347511713",
+    
+    "kyword": "funny videos ",
+    
+    "Iklanku": "0",
+      
+    "interFan":  "3849533245100855_3849534431767403",
+    "NativeFan": "3849533245100855_3849537961767050",
+    "BannerFan": "3849533245100855_3849537045100475",
+    
+     "InterApplovinId":  "a832104eb721bbe3",
+     "BannerApplovinId":  "b6a563740264bbca",
+     "MrcApplovinId":  "a984d2767e8edbdf",
+    
+    
+    "IdUnity": "1689120",
+    "reword": "rewardedVideo",
+    "IdStarapp": "205147707",
+    
+   "Tapdax_Appid": "61ee20d008fe6c2d735d780d",
+    "Tapdax_key": "1e4da52c-df14-4690-94e3-4155b474b8cc",
+    
+    // 1 ikln inter
+    // 2 ikln video inter
+    // 3 ikln video reword
+
+    "Tipe_iklan": "2",
+    
+     "Tipe_Inter": "0",
+     "Tipe_Banner": "0",
+     "Tipe_Native": "0",
+    
+    
+    
+     "idmopub": "1xxx",
+     "idappdeal": "1xxx",
+    
+    "Admob": "0",
+    
+    "Starapp": "0",
+    
+    "Fan": "0",
+    
+    "Applovin": "0",
+    
+    "Unity": "0",
+    
+     "appdeal": "0",
+    
+     "mopub": "0",
+    
+     "Bidding_Applovin_Inter": "0",
+     "Bidding_Applovin_Banner": "0",
+     "Bidding_Applovin_Mrc": "0",
+    
+     "Bidding_Admob_Inter": "0",
+     "Bidding_Admob_Banner": "0",
+     "Bidding_Admob_Native": "0",
+    
+    
+    
+  
+    "BannerAdmob": "0",
+    "NativeAdmob": "0",
+    
+    "BannerFanAds": "0",
+    "NativeFanAds": "0",
+    
+     "BannerApplovin": "0",
+    
+    "RandomAds": "0",
+     "button": "1",
+     "splase": "1",
+    
+    "k1": "https://www.bing.com/search?q=",
+    "k2": "https://www.bing.com/search?q=",
+    "k3": "https://www.bing.com/search?q=",
+    "k4": "https://www.bing.com/search?q=",
+    "k5": "https://www.bing.com/search?q=",
+    "k6": "https://www.bing.com/search?q=",
+    "k7": "https://www.bing.com/search?q=",
+    
+     "browser":"https://www.google.com/search?q=",
+    
+ 
+    
+    "iklan": "1"
+}
